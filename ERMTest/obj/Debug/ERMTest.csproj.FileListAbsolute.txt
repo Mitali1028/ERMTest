@@ -1,0 +1,5 @@
+C:\dev\mitali-patel\ERMTest\ERMTest\bin\Debug\ERMTest.exe.config
+C:\dev\mitali-patel\ERMTest\ERMTest\bin\Debug\ERMTest.exe
+C:\dev\mitali-patel\ERMTest\ERMTest\bin\Debug\ERMTest.pdb
+C:\dev\mitali-patel\ERMTest\ERMTest\obj\Debug\ERMTest.exe
+C:\dev\mitali-patel\ERMTest\ERMTest\obj\Debug\ERMTest.pdb

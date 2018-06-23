@@ -1,0 +1,11 @@
+C:\dev\mitali-patel\ERMTest\CSVTestProject\bin\Release\CSVTestProject.dll
+C:\dev\mitali-patel\ERMTest\CSVTestProject\bin\Release\CSVTestProject.pdb
+C:\dev\mitali-patel\ERMTest\CSVTestProject\bin\Release\ERMTest.exe
+C:\dev\mitali-patel\ERMTest\CSVTestProject\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\dev\mitali-patel\ERMTest\CSVTestProject\bin\Release\Moq.dll
+C:\dev\mitali-patel\ERMTest\CSVTestProject\bin\Release\ERMTest.pdb
+C:\dev\mitali-patel\ERMTest\CSVTestProject\bin\Release\Moq.pdb
+C:\dev\mitali-patel\ERMTest\CSVTestProject\bin\Release\Moq.xml
+C:\dev\mitali-patel\ERMTest\CSVTestProject\obj\Release\CSVTestProject.csprojResolveAssemblyReference.cache
+C:\dev\mitali-patel\ERMTest\CSVTestProject\obj\Release\CSVTestProject.dll
+C:\dev\mitali-patel\ERMTest\CSVTestProject\obj\Release\CSVTestProject.pdb

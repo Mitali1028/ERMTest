@@ -1,0 +1,6 @@
+C:\dev\mitali-patel\TestCSV\CSVTesting\bin\Debug\CSVTesting.exe.config
+C:\dev\mitali-patel\TestCSV\CSVTesting\bin\Debug\CSVTesting.exe
+C:\dev\mitali-patel\TestCSV\CSVTesting\bin\Debug\CSVTesting.pdb
+C:\dev\mitali-patel\TestCSV\CSVTesting\obj\Debug\CSVTesting.exe
+C:\dev\mitali-patel\TestCSV\CSVTesting\obj\Debug\CSVTesting.pdb
+C:\dev\mitali-patel\TestCSV\CSVTesting\obj\Debug\CSVTesting.csprojResolveAssemblyReference.cache
